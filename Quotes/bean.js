@@ -4,8 +4,8 @@ let data = [
         quote: 'Power comes in response to need, not a desire. You have to create that need.'
     },
     {
-        name: 'CJ (GTA SA):',
-        quote: 'See you around, officer'
+        name: 'Little Jacob (GTA 4):',
+        quote: "The world can mess you up ya kna, make you tink that dat tings matter when all dat matter is dat the sun come up and have we have a good time and laughter and ting seen?"
     },
     {
         name: 'Monkey D. Luffy:',
