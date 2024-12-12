@@ -1,0 +1,27 @@
+[
+    {
+        "image": "../images/ApolloJustice.jpg",
+        "name": "apollo"
+    },
+    {
+        "image": "../images/frankwoods.webp",
+        "name": "frank"
+    },
+    {
+        "image": "../images/freddiemercury.jpg",
+        "name": "freddie"
+    },
+    {
+        "image": "../images/johnnyklebitz.webp",
+        "name": "johnny"
+    },
+    {
+        "image": "../images/lupinxfujiko.jpeg",
+        "name": "lupin"
+    },
+    {
+        "image": "../images/nicorobin.jpg",
+        "name": "robin"
+    }
+    
+]
