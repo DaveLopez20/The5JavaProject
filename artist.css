@@ -324,30 +324,30 @@ template {
   text-decoration: none;
 }
 .navigation nav a hover {
-  color: orangered;
+  color: #9e0fe0;
 }
 
 .first {
   border: 1px solid;
-  width: 520px;
-  height: 700px;
+  width: 1450px;
+  height: 1080px;
 }
 
 .title {
   font-family: "Jersey 10", sans-serif;
   font-size: 70px;
-  color: #f7df0c;
+  color: #000000;
   margin: 5px 20px;
 }
 
 .paragraph {
   font-family: "Jersey 10", sans-serif;
   font-size: 70px;
-  color: #f7df0c;
+  color: #000000;
   margin: 5px 20px;
   font-family: "Jersey 10", sans-serif;
   font-size: 50px;
-  color: #f7df0c;
+  color: #000000;
   margin: 5px 20px;
 }
 
@@ -370,7 +370,7 @@ template {
 }
 
 .body {
-  background-color: chartreuse;
+  background-color: rgb(9, 83, 167);
 }
 
 @media (min-width: 768px) {
@@ -380,7 +380,7 @@ template {
 }
 @media (min-width: 1024px) {
   .navigation {
-    background-color: darkred;
+    background-color: #9e0fe0;
   }
 }
 .btn-primary {
@@ -390,5 +390,5 @@ template {
 }
 
 .footer {
-  background-color: #19e2d8;
+  background-color: #9e0fe0;
 }/*# sourceMappingURL=main.css.map */
