@@ -1,26 +1,26 @@
 [
     {
-        "image": "../images/ApolloJustice.jpg",
+        "image": "images/ApolloJustice.jpg",
         "name": "apollo"
     },
     {
-        "image": "../images/frankwoods.webp",
+        "image": "images/frankwoods.webp",
         "name": "frank"
     },
     {
-        "image": "../images/freddiemercury.jpg",
+        "image": "images/freddiemercury.jpg",
         "name": "freddie"
     },
     {
-        "image": "../images/johnnyklebitz.webp",
+        "image": "images/johnnyklebitz.webp",
         "name": "johnny"
     },
     {
-        "image": "../images/lupinxfujiko.jpeg",
+        "image": "images/lupinxfujiko.jpeg",
         "name": "lupin"
     },
     {
-        "image": "../images/nicorobin.jpg",
+        "image": "images/nicorobin.jpg",
         "name": "robin"
     }
     
